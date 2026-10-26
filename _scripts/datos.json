@@ -1,0 +1,13 @@
+{
+  "sitio": "Franco & Asociados · Estudio de Abogados",
+  "titulo_corto": "Franco & Asociados",
+  "responsable": "Franco & Asociados · Estudio de Abogados",
+  "domicilio": "",
+  "email": "franco.gestiones@gmail.com",
+  "telefono": "+54 11 6093 6384",
+  "persona": "nosotros",
+  "formulario": true,
+  "btn": "btn-rojo",
+  "theme_color": "#16161A",
+  "css": {"fondo": "var(--claro)", "fondo_hero": "var(--carbon)", "texto_hero": "#fff", "acento": "var(--rojo)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
